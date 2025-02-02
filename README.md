@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkr1722" alt="rahulkr1722" /></a> </p>
 
-- 🔭 I’m currently working on **Robotic Car with sensor & Android app**
+- 🔭 I’m currently working on **Web Developers & Android app**
 
-- 🌱 I’m currently learning **Kotlin,Reactnative,DBMS**
+- 🌱 I’m currently learning **Java,DSA,DBMS**
 
 - 📫 How to reach me **rahulkr221703@gmail.com**
 
