@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahul kumar</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Android Developer/java Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkr1722&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkr1722" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulkr1722" alt="rahulkr1722" /></a> </p>
 
-- 🔭 I’m currently working on **Web Developers & Android app**
+- 🔭 I’m currently working on **Java Developer & Android Developer**
 
-- 🌱 I’m currently learning **Java,DSA,DBMS**
+- 🌱 I’m currently learning **Java,DSA,DBMS MYSQL**
 
 - 📫 How to reach me **rahulkr221703@gmail.com**
 
